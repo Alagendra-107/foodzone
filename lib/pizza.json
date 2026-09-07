@@ -1,0 +1,82 @@
+ [
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "category": "Pizza",
+    "description": "Classic tomato, mozzarella and fresh basil",
+    "price": 299,
+    "rating": 4.8,
+    "likes": 120,
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002"
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni Pizza",
+    "category": "Pizza",
+    "description": "Loaded with spicy pepperoni and mozzarella",
+    "price": 349,
+    "rating": 4.7,
+    "likes": 150,
+    "image": "https://images.unsplash.com/photo-1628840042765-356cda07504e"
+  },
+  {
+    "id": 3,
+    "name": "Cheese Burst Pizza",
+    "category": "Pizza",
+    "description": "Extra cheese with a delicious creamy center",
+    "price": 399,
+    "rating": 4.9,
+    "likes": 180,
+    "image": "https://images.unsplash.com/photo-1579751626657-72bc17010498"
+  },
+  {
+    "id": 4,
+    "name": "Farmhouse Pizza",
+    "category": "Pizza",
+    "description": "Fresh onion, capsicum, tomato and mushrooms",
+    "price": 379,
+    "rating": 4.6,
+    "likes": 110,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38"
+  },
+  {
+    "id": 5,
+    "name": "Chicken Tikka Pizza",
+    "category": "Pizza",
+    "description": "Spicy chicken tikka with onions and cheese",
+    "price": 449,
+    "rating": 4.8,
+    "likes": 200,
+    "image": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e"
+  },
+  {
+    "id": 6,
+    "name": "BBQ Chicken Pizza",
+    "category": "Pizza",
+    "description": "BBQ chicken, onion and mozzarella cheese",
+    "price": 429,
+    "rating": 4.7,
+    "likes": 175,
+    "image": "https://images.unsplash.com/photo-1566843972142-a7fcb70de55a"
+  },
+  {
+    "id": 7,
+    "name": "Veggie Delight Pizza",
+    "category": "Pizza",
+    "description": "Fresh vegetables with mozzarella cheese",
+    "price": 329,
+    "rating": 4.5,
+    "likes": 95,
+    "image": "https://images.unsplash.com/photo-1579751626657-72bc17010498"
+  },
+  {
+    "id": 8,
+    "name": "Paneer Pizza",
+    "category": "Pizza",
+    "description": "Indian paneer with capsicum and spicy sauce",
+    "price": 369,
+    "rating": 4.6,
+    "likes": 135,
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002"
+  }
+]

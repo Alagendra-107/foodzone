@@ -33,26 +33,7 @@ export default function FoodzoneHome() {
         </h2>
 
         <div className="mx-auto grid max-w-5xl text-2xl gap-6 md:grid-cols-3 ">
-          <CartContent
-            img="/delivery.png"
-            name="Fast Delivery"
-            para="Get Your Food in Under 30 Mins"
-            price=""
-          />
-
-          <CartContent
-            img="/fresh-food.png"
-            name="Fresh Food"
-            para="Fresh and Delicious Food Every Day"
-            price=""
-          />
-
-          <CartContent
-            img="/price.png"
-            name="Best Price"
-            para="Delicious Food at Affordable Prices"
-            price=""
-          />
+        <CartContent />
         </div>
       </div>
     </section>

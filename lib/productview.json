@@ -1,0 +1,13 @@
+ [
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "category": "Pizza",
+    "description": "Classic tomato, mozzarella and fresh basil",
+    "price": 299,
+    "rating": 4.8,
+    "likes": 120,
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002"
+  }
+
+]

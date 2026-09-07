@@ -1,43 +1,36 @@
+
 type CartProps = {
   name: string;
-  para: string;
-  img: string;
-  price: string;
-  badge?: string;
+  description: string;
+  image: string;
+  price: number;
 };
-
+import pizza from "@/lib/pizza.json";
 export default function CartContent({
-  img,
   name,
-  para,
+  description,
+  image,
   price,
-  badge,
 }: CartProps) {
   return (
-    <div className="flex items-center gap-3">
-      {/* Food Image */}
+    <div
+      key={name}
+      className="flex items-center gap-3"
+    >
       <img
-        src={img}
+        src={image}
         alt={name}
         className="h-12 w-12 object-contain"
       />
 
       {/* Food Details */}
       <div className="min-w-0">
-        <div className="flex items-center gap-2">
-          <h2 className="text-[20px] font-bold text-gray-800">
-            {name}
-          </h2>
-
-          {badge && (
-            <span className="rounded-full bg-red-100 px-1.5 py-0.5 text-[17px] font-medium text-red-500">
-              {badge}
-            </span>
-          )}
-        </div>
+        <h2 className="text-[20px] font-bold text-gray-800">
+          {name}
+        </h2>
 
         <p className="mt-0.5 text-[15px] text-gray-400">
-          {para}
+          {description}
         </p>
 
         <p className="mt-1 text-[19px] font-bold text-orange-500">
