@@ -1,13 +1,13 @@
-export default async function Productview({
+export default async function ProductView({
   params,
 }: {
-  params: Promise<{ productviewid: string }>;
+  params: { productviewid: string };
 }) {
   const { productviewid } = await params;
 
   return (
-    <h2>
-      This is the view: {productviewid}
-    </h2>
+    <section>
+      <h3> This product view page {productviewid}</h3>
+    </section>
   );
 }
