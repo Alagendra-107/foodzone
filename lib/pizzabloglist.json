@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "10 Must-Try Pizza Combinations for Pizza Lovers",
+    "category": "Food Tips",
+    "description": "Discover delicious pizza combinations that can take your pizza experience to the next level.",
+    "image": "https://images.unsplash.com/photo-1579751626657-72bc17010498",
+    "author": "FoodZone",
+    "date": "May 12, 2025",
+    "readTime": "5 min read",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Best Pizza Toppings to Try",
+    "category": "Food Tips",
+    "description": "From classic pepperoni to exotic veggies, explore the best pizza toppings to try.",
+    "image": "https://images.unsplash.com/photo-1593560708920-61dd98c8aab6",
+    "author": "FoodZone",
+    "date": "May 2, 2025",
+    "readTime": "4 min read",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "Top 5 Pizza Restaurants in Your City",
+    "category": "Restaurants",
+    "description": "Discover the best pizza places near you for a perfect dining experience.",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+    "author": "FoodZone",
+    "date": "April 25, 2025",
+    "readTime": "6 min read",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "Healthy Food Options for Guilt-Free Eating",
+    "category": "Healthy Food",
+    "description": "Enjoy delicious and healthy meals without compromising on taste.",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+    "author": "FoodZone",
+    "date": "April 20, 2025",
+    "readTime": "5 min read",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "How to Make Perfect Pizza at Home",
+    "category": "Recipes",
+    "description": "Follow our simple guide to make a restaurant-style pizza at home.",
+    "image": "https://images.unsplash.com/photo-1579751626657-72bc17010498",
+    "author": "FoodZone",
+    "date": "April 15, 2025",
+    "readTime": "7 min read",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "5 Delicious Dessert Ideas for Food Lovers",
+    "category": "Food Ideas",
+    "description": "End your meal with something sweet. Try these easy and tasty dessert ideas.",
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587",
+    "author": "FoodZone",
+    "date": "April 10, 2025",
+    "readTime": "4 min read",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "title": "Best Food Deals & Offers This Week",
+    "category": "Offers",
+    "description": "Don't miss these amazing food deals and discounts on your favorite meals.",
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591",
+    "author": "FoodZone",
+    "date": "April 5, 2025",
+    "readTime": "3 min read",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "How to Choose the Perfect Pizza",
+    "category": "Guide",
+    "description": "A simple guide to choosing the perfect pizza based on your taste and mood.",
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+    "author": "FoodZone",
+    "date": "April 28, 2025",
+    "readTime": "4 min read",
+    "featured": false
+  }
+]
