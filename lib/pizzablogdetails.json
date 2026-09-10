@@ -1,237 +1,67 @@
+{
+"id": 1,
+"blogId": 1,
+"title": "10 Must-Try Pizza Combinations for Pizza Lovers",
+"category": "Food Tips",
+"image": "https://images.unsplash.com/photo-1579751626657-72bc17010498",
+"date": "May 12, 2025",
+"readTime": "5 min read",
+"content": "Pizza is more than just food — it's an emotion! If you're a true pizza lover, you'll know that the right combination of toppings can take your pizza experience to the next level. Here are 8 delicious pizza combinations you must try.",
 
-[
-  {
-    "id": 1,
-    "blogId": 1,
-    "title": "10 Must-Try Pizza Combinations for Pizza Lovers",
-    "category": "Food Tips",
-    "image": "https://images.unsplash.com/photo-1579751626657-72bc17010498",
-    "author": "FoodZone",
-    "date": "May 12, 2025",
-    "readTime": "5 min read",
-    "content": "Pizza is more than just food — it's an emotion! If you're a true pizza lover, you'll know that the right combination of toppings can take your pizza experience to the next level. Here are 10 delicious pizza combinations you must try.",
-    "sections": [
-      {
-        "id": 1,
-        "title": "Margherita + Fresh Basil",
-        "description": "The classic combination of mozzarella, tomato sauce and fresh basil never goes out of style.",
-        "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002"
-      },
-      {
-        "id": 2,
-        "title": "Pepperoni + Extra Cheese",
-        "description": "A perfect blend of spicy pepperoni and gooey cheese for the ultimate comfort bite.",
-        "image": "https://images.unsplash.com/photo-1628840042765-356cda07504e"
-      },
-      {
-        "id": 3,
-        "title": "Veggie Delight",
-        "description": "Loaded with fresh vegetables, olives, mushrooms and cheese — a healthy and tasty choice.",
-        "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65"
-      },
-      {
-        "id": 4,
-        "title": "Chicken Tikka + Onion",
-        "description": "Spicy chicken tikka with crunchy onions gives a bold and flavorful taste.",
-        "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38"
-      },
-      {
-        "id": 5,
-        "title": "BBQ Chicken + Jalapeños",
-        "description": "Smoky BBQ sauce, tender chicken and jalapeños bring the perfect kick.",
-        "image": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47"
-      },
-      {
-        "id": 6,
-        "title": "Hawaiian",
-        "description": "A unique mix of ham and pineapple for a sweet and savory treat.",
-        "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002"
-      },
-      {
-        "id": 7,
-        "title": "Four Cheese",
-        "description": "Mozzarella, cheddar, parmesan and feta for true cheese lovers.",
-        "image": "https://images.unsplash.com/photo-1579751626657-72bc17010498"
-      },
-      {
-        "id": 8,
-        "title": "Stuffed Crust",
-        "description": "Extra cheese inside the crust makes every bite more special.",
-        "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002"
-      },
-      {
-        "id": 9,
-        "title": "Spicy Paneer",
-        "description": "Indian spice flavors with paneer, capsicum and onions for a flavorful pizza.",
-        "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65"
-      },
-      {
-        "id": 10,
-        "title": "Meat Lovers",
-        "description": "A hearty combination of chicken, sausage, pepperoni and bacon for the ultimate feast.",
-        "image": "https://images.unsplash.com/photo-1628840042765-356cda07504e"
-      }
-    ],
-    "tip": "Try mixing your favorite toppings and create your own unique combination. Because the best pizza is the one you love!"
-  },
-  {
-    "id": 2,
-    "blogId": 2,
-    "title": "Best Pizza Toppings to Try",
-    "category": "Food Tips",
-    "image": "https://images.unsplash.com/photo-1593560708920-61dd98c8aab6",
-    "author": "FoodZone",
-    "date": "May 2, 2025",
-    "readTime": "4 min read",
-    "content": "Choosing the right toppings can completely change the taste of your pizza. From classic favorites to creative combinations, there are endless possibilities.",
-    "sections": [
-      {
-        "id": 1,
-        "title": "Classic Pepperoni",
-        "description": "A timeless topping with a spicy and savory flavor.",
-        "image": "https://images.unsplash.com/photo-1628840042765-356cda07504e"
-      },
-      {
-        "id": 2,
-        "title": "Fresh Vegetables",
-        "description": "Add mushrooms, onions, capsicum and tomatoes for a fresh flavor.",
-        "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65"
-      },
-      {
-        "id": 3,
-        "title": "Chicken Tikka",
-        "description": "A delicious Indian-inspired topping packed with spices.",
-        "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38"
-      }
-    ],
-    "tip": "Always balance rich toppings with fresh vegetables for a better pizza experience."
-  },
-  {
-    "id": 3,
-    "blogId": 3,
-    "title": "Top 5 Pizza Restaurants in Your City",
-    "category": "Restaurants",
-    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
-    "author": "FoodZone",
-    "date": "April 25, 2025",
-    "readTime": "6 min read",
-    "content": "Finding a great pizza restaurant can make your dining experience unforgettable. Here are some things to look for when choosing your next pizza place.",
-    "sections": [
-      {
-        "id": 1,
-        "title": "Wood-Fired Pizza",
-        "description": "Restaurants using traditional wood-fired ovens often deliver a crispy and flavorful crust.",
-        "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591"
-      },
-      {
-        "id": 2,
-        "title": "Fresh Ingredients",
-        "description": "Look for restaurants that use fresh vegetables, cheese and quality sauces.",
-        "image": "https://images.unsplash.com/photo-1579751626657-72bc17010498"
-      }
-    ],
-    "tip": "Check customer reviews and restaurant ratings before trying a new pizza place."
-  },
-  {
-    "id": 4,
-    "blogId": 4,
-    "title": "Healthy Food Options for Guilt-Free Eating",
-    "category": "Healthy Food",
-    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
-    "author": "FoodZone",
-    "date": "April 20, 2025",
-    "readTime": "5 min read",
-    "content": "Eating healthy does not mean giving up delicious food. With the right ingredients and portions, you can enjoy flavorful meals while maintaining a balanced diet.",
-    "sections": [
-      {
-        "id": 1,
-        "title": "Fresh Vegetable Bowls",
-        "description": "Colorful vegetable bowls are packed with nutrients and flavor.",
-        "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd"
-      },
-      {
-        "id": 2,
-        "title": "Healthy Pizza",
-        "description": "Choose vegetable toppings and lighter ingredients for a balanced pizza.",
-        "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65"
-      },
-      {
-        "id": 3,
-        "title": "Protein-Rich Meals",
-        "description": "Add grilled chicken, beans or paneer to make your meal more filling.",
-        "image": "https://images.unsplash.com/photo-1547592180-85f173990554"
-      }
-    ],
-    "tip": "Focus on fresh ingredients and balanced portions rather than completely avoiding your favorite foods."
-  },
-  {
-    "id": 5,
-    "blogId": 5,
-    "title": "How to Make Perfect Pizza at Home",
-    "category": "Recipes",
-    "image": "https://images.unsplash.com/photo-1579751626657-72bc17010498",
-    "author": "FoodZone",
-    "date": "April 15, 2025",
-    "readTime": "7 min read",
-    "content": "Making pizza at home can be simple and fun. With a few quality ingredients and the right technique, you can create a delicious homemade pizza.",
-    "sections": [
-      {
-        "id": 1,
-        "title": "Prepare the Dough",
-        "description": "Mix flour, yeast, water, salt and olive oil to prepare a soft pizza dough.",
-        "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a"
-      },
-      {
-        "id": 2,
-        "title": "Add the Sauce",
-        "description": "Spread a thin layer of tomato sauce over the dough.",
-        "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002"
-      },
-      {
-        "id": 3,
-        "title": "Add Your Toppings",
-        "description": "Add cheese, vegetables, chicken or any toppings you love.",
-        "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65"
-      },
-      {
-        "id": 4,
-        "title": "Bake Until Crispy",
-        "description": "Bake at a high temperature until the cheese melts and the crust becomes golden.",
-        "image": "https://images.unsplash.com/photo-1579751626657-72bc17010498"
-      }
-    ],
-    "tip": "Preheat your oven properly before baking to get a crispy restaurant-style crust."
-  },
-  {
-    "id": 6,
-    "blogId": 6,
-    "title": "5 Delicious Dessert Ideas for Food Lovers",
-    "category": "Food Ideas",
-    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587",
-    "author": "FoodZone",
-    "date": "April 10, 2025",
-    "readTime": "4 min read",
-    "content": "A great meal deserves a delicious ending. From chocolate desserts to fruity treats, there are many options for satisfying your sweet tooth.",
-    "sections": [
-      {
-        "id": 1,
-        "title": "Chocolate Lava Cake",
-        "description": "Warm chocolate cake with a delicious molten center.",
-        "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476f"
-      },
-      {
-        "id": 2,
-        "title": "Chocolate Brownie",
-        "description": "Rich and fudgy brownies are perfect for chocolate lovers.",
-        "image": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e"
-      },
-      {
-        "id": 3,
-        "title": "Fresh Fruit Dessert",
-        "description": "A light and refreshing dessert made with fresh seasonal fruits.",
-        "image": "https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea"
-      }
-    ],
-    "tip": "Pair your favorite dessert with a hot coffee or cold milkshake for the perfect finish."
+"sections": [
+{
+"id": 1,
+"title": "Margherita + Fresh Basil",
+"heading": "Classic Italian Pizza",
+"description": "The classic combination of mozzarella, tomato sauce and fresh basil creates a fresh, delicious and comforting pizza.",
+"image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002",
+"author": "FoodZone",
+"date": "May 12, 2025",
+"rating": 4.8,
+"rating": 245,
+"cookingTime": "25 mins",
+"calories": "280 kcal",
+"servings": 2,
+"difficulty": "Easy",
+"cuisine": "Italian",
+"dishType": "Vegetarian",
+"ingredients": [
+"1 pizza dough",
+"1/2 cup tomato sauce",
+"150 g mozzarella cheese",
+"Fresh basil leaves",
+"1 tablespoon olive oil",
+"1/4 teaspoon salt",
+"1/4 teaspoon black pepper"
+],
+"equipment": [
+"Oven",
+"Baking tray",
+"Rolling pin",
+"Mixing bowl"
+],
+"preparationTime": "15 mins",
+"bakingTemperature": "220°C",
+"recipeSteps": [
+"Preheat the oven to 220°C.",
+"Roll the pizza dough into a round shape.",
+"Spread tomato sauce evenly over the dough.",
+"Add mozzarella cheese on top.",
+"Season with salt and black pepper.",
+"Bake for 10 to 12 minutes until the crust is golden and the cheese melts.",
+"Remove the pizza from the oven and add fresh basil leaves.",
+"Drizzle with olive oil and serve hot."
+],
+"nutrition": {
+"calories": "280 kcal",
+"protein": "13 g",
+"carbohydrates": "34 g",
+"fat": "10 g",
+"fiber": "2 g"
+},
+"aboutDish": "Margherita pizza is a timeless Italian classic made with tomato sauce, mozzarella and fresh basil. The combination is simple but full of fresh and delicious flavors."
+    }
+    ]
   }
-]
+
+

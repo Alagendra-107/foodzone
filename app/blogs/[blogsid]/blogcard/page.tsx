@@ -29,8 +29,8 @@ export default function BlogCard() {
             date={item.date}
             readTime={item.readTime}
             title={item.title}
-            heading={item.heading}
-            disc={item.disc}
+            // heading={item.heading}
+            disc={item.content}
           />
         ))}
       </section>

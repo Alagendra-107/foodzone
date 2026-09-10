@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 type PropList = {
   image: string;
   date: string;
@@ -56,9 +58,9 @@ export default function BlogList({
         </p>
 
         {/* Read More */}
-        <button className="mt-5 font-semibold text-orange-500 transition-colors hover:text-orange-600">
+        <Link className="mt-5 font-semibold text-orange-500 transition-colors hover:text-orange-600" href={"m   "}>
           Read More →
-        </button>
+        </Link>
       </div>
     </article>
   );
